@@ -1,0 +1,184 @@
+#iTel{
+    display: none;
+}
+.texto
+{
+    font-family:verdana,tahoma,arial;
+    font-size:8pt;
+    color:black;
+    font-weight:none;
+    text-decoration:none;
+}
+
+font.textosubtotal
+{
+    font-family:verdana,tahoma,arial;
+    font-size:7pt;
+    color:#b9c7d5;
+    font-weight:none;
+    text-decoration:none;
+}
+
+.fbutton
+{
+ font-size:11px;
+ font-family:Tahoma, Verdana, Arial;
+ color:#0f465f;
+ padding:2px 2px 2px 2px;
+ background:url(../img/bgvotar.gif) repeat-x #F0F0F0;
+ border:1px solid #BAC4CB;
+ cursor:pointer;
+}
+
+#i_Carregando
+{
+ display:none;
+}
+
+td.tdcabcad
+{
+    background-color:#355ba7;
+    font-family:verdana,tahoma,arial;
+    padding: 1pt 2pt 2pt 1pt;
+    border:1px solid;
+    border-color:#888888;
+    font-size:8pt;
+    color:#FFFFFF;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+td.tdcabcad a
+{    
+    text-decoration:none;
+}
+
+font.textov
+{
+    font-family:verdana,tahoma,arial;
+    font-size: 8pt;
+    color: #df2727;
+    font-weight: bold;
+}
+
+td.tdcad
+{
+    font-family:verdana,tahoma,arial;
+    padding: 1pt 2pt 2pt 1pt;
+    border:1px;
+    font-size:8pt;
+    color:#000000;
+    font-weight:none;
+    text-decoration:none;
+}
+td.tdcadtit
+{
+    font-family:verdana,tahoma,arial;
+    padding: 1pt 2pt 2pt 1pt;
+    border:1px;
+    font-size:7pt;
+    color:#000000;
+    font-weight:none;
+    text-decoration:none;
+}
+td.tdcadb
+{
+    font-family:verdana,tahoma,arial;
+    padding: 1pt 2pt 2pt 1pt;
+    border:1px;
+    font-size:8pt;
+    color:#000000;
+    font-weight: bold;
+    text-decoration:none;
+}
+
+td.tdcadb a
+{
+    font-family:verdana,tahoma,arial;
+    padding: 1pt 2pt 2pt 1pt;
+    border:1px;
+    font-size:8pt;
+    color:#000000;
+    font-weight: bold;
+    text-decoration:none;
+}
+
+font.textob
+{
+    font-family:verdana,tahoma,arial;
+    font-size: 8pt;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+font.texto
+{
+    font-family:verdana,tahoma,arial;
+    font-size: 8pt;
+    color: #000000;
+    font-weight: none;
+}
+
+td.comentariotit
+{
+    background-color:#cedfef;
+    font-family:verdana,tahoma,arial;
+    padding: 1pt 2pt 2pt 1pt;
+    font-size:10pt;
+    color:#2163ab;
+    font-weight: bold;
+    text-decoration:none;
+}
+
+td.tdcadcomentario
+{
+    font-family:verdana,tahoma,arial;
+    padding: 1pt 2pt 2pt 1pt;
+    border:1px;
+    font-size:7pt;
+    color:#000000;
+    font-weight:none;
+    text-decoration:none;
+}
+td.tdcad1
+{
+    font-family:verdana,tahoma,arial;
+    padding: 1pt 2pt 2pt 1pt;
+    border:1px;
+    font-size:7pt;
+    color:#000000;
+    font-weight:none;
+    text-decoration:none;
+}
+
+td.tdcabcad1
+{
+    background-color:#355ba7;
+    font-family:verdana,tahoma,arial;
+    padding: 1pt 2pt 2pt 1pt;
+    border:1px solid;
+    border-color:#888888;
+    font-size:7pt;
+    color:#FFFFFF;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+font.titraiox a{
+    font-size:10px;color:#203577;
+    font-family:verdana,tahoma,arial;
+    height:20px;
+    width:150px;
+    line-height:12px;
+    font-weight:bold;
+    margin:0px 0px 0px 4px;
+    text-decoration:none;
+}
+font.descraiox{
+    font-size:10px;color:#203577;
+    font-family:verdana,tahoma,arial;
+    height:20px;
+    width:270px;
+    line-height:12px;
+    margin:0px 0px 0px 10px;
+}

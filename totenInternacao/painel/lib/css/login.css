@@ -1,0 +1,147 @@
+#login {
+	width: 1500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: left;
+	width: 1000px;
+}
+
+.top40 {
+	padding-top: 40px;
+}
+
+.clear {
+	clear: both;
+}
+
+.logo3 {
+	margin: 40px 0px 30px 100px;
+}
+
+.ui-widget input {
+	font-size: 12px !important;
+}
+
+#userinput-login, #userinput-senha, #userinput-plano {
+	width: 250px;
+	margin-bottom: 10px;
+	margin-top: 5px;
+	color: gray;
+	outline: 1px solid #cecece;
+	padding: 4px 5px 4px 10px;
+}
+
+#userinput-login-errado{
+	padding: 4px 5px 4px 10px;
+	margin-left: 99px;
+	font-size: 12px;
+}
+
+
+.focus {
+	outline: 1px solid rgb(25, 71, 88) !important;
+}
+
+.btnEntrar {
+	margin-top: 10px;
+}
+
+.destaque {
+	background-color: #0072c6;
+	margin-top: 340px;
+	padding: 0;
+	width: 475px;
+	height: 150px;
+}
+
+.info {
+	/*font-family: 'Segoe UI', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;*/
+	font-family: "Segoe UI Web Light", "Segoe UI Light", "Segoe UI Web Regular", "Segoe UI", "Helvetica Neue", Arial;
+	color: white;
+	padding: 10px 25px;
+}
+
+.login-info-title {
+	font-size: 26px;
+	padding: 0px 10px 2px 10px;
+}
+
+.login-info-desc {
+	font-family: "Segoe UI Web Regular", "Segoe UI", "Helvetica Neue", Arial;
+	font-size: 12px;
+	padding: 0px 10px 15px 10px;
+}
+
+.botao-claro {
+	padding: 0px 10px 2px 10px !important;
+	margin-left: 10px;
+}
+
+.login-link {
+	font-size: 12px;
+	font-family: "Segoe UI Web Regular", "Segoe UI", "Helvetica Neue", Arial;
+	color: #2672EC !important;
+	text-decoration: none;
+}
+
+.login-link:hover {
+	color: #338ED1;
+}
+
+.login-link:visited {
+	color: #0072C6;
+}
+
+.botao {
+	margin-bottom: 20px !important;
+}
+
+.text {
+	font-size: 12px;
+	font-family: "Segoe UI Web Regular", "Segoe UI", "Helvetica Neue", Arial;
+	color: #000;
+	text-decoration: none;
+}
+
+.informacoes-login, .informacoes-login2 {
+}
+
+.informacoes-login2 {
+	margin-top: 135px;
+}
+
+.text14 {
+	font-size: 14px !important;
+}
+
+.hr {
+	width: 930px;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: 1px solid #CCC;
+	margin-top: 30px;
+	padding: 10px 10px;
+}
+
+.copyright {
+	color: #666;
+}
+
+.left110 {
+	margin-left: 110px;
+}
+
+font.textov
+{
+    font-family:verdana,tahoma,arial;
+    font-size: 8pt;
+    color: #df2727;
+    font-weight: bold;
+}

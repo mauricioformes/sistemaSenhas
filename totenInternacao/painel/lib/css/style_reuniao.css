@@ -1,0 +1,37 @@
+/* CSS Document */
+* { margin: 0; padding: 0; } 
+
+ul { list-style: none; }
+/*----------FONTE's----------*/
+
+table.reuniao
+{
+    background-color:#FFFFFF;
+    border-color:#e7f0f5;
+    font-size:7pt;
+    color:#000000;           
+    font-family:verdana,tahoma,arial;
+    border:1px solid #000;
+}
+
+font.text
+{
+    background-color:#FFFFFF;
+    border-color:#e7f0f5;
+    font-size:9pt;
+    color:#000000;           
+    font-family:verdana,tahoma,arial;
+    font-weight:bold;
+    
+}
+td.reuniao
+{
+    background-color:#FFFFFF;
+    border-color:#e7f0f5;
+    font-size:7pt;
+    color:#000000;           
+    font-family:verdana,tahoma,arial;
+    border:1px solid #000;
+    border-left:1px solid #000;
+    text-align:center;
+}
